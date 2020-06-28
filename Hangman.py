@@ -1,6 +1,5 @@
 # Write your code here
 import random
-import sys
 print('H A N G M A N')
 print('There are currently 7 words in the database:')
 print('python, java, kotlin, javascript, ravindra, advik, madhuri')
